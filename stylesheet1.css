@@ -693,6 +693,12 @@ header button{
     .third_box_top img{
         display: none;
     }
+    
+     .third_box_top p{
+        margin-top: -5px;
+        
+
+    }
 
 }
 
