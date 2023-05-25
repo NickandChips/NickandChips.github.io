@@ -1,4 +1,4 @@
-﻿:root{
+:root{
     font-size: 16px;
     background-color: gainsboro;
 
@@ -93,8 +93,8 @@ footer {
     display: flex;
     align-items: center;
     padding-left: 30px;;
-    border-left: solid;
-    border-color: gray;
+    
+   
     
 
     
